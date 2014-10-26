@@ -1,0 +1,537 @@
+---
+http://rubyrogues.com/178-rr-book-club-refactoring-ruby-with-martin-fowler/:
+  :title: '178 RR Book Club: Refactoring Ruby with Martin Fowler'
+  :url: http://traffic.libsyn.com/rubyrogues/RR178RefactoringBook.mp3
+http://rubyrogues.com/177-rr-creativity-and-technology/:
+  :title: 177 RR Creativity and Technology
+  :url: http://traffic.libsyn.com/rubyrogues/RR177Creativity.mp3
+http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/:
+  :title: 176 RR Rails as an SOA Client with Pete Hodgson
+  :url: http://traffic.libsyn.com/rubyrogues/RR176RailsasSOAClient.mp3
+http://rubyrogues.com/175-rr-civic-hacking-with-william-jeffries/:
+  :title: 175 RR Civic Hacking with William Jeffries
+  :url: http://traffic.libsyn.com/rubyrogues/RR175CivicHacking.mp3
+http://rubyrogues.com/174-rubygems-with-eric-hodel/:
+  :title: 174 RR Rubygems with Eric Hodel
+  :url: http://traffic.libsyn.com/rubyrogues/RR174RubyGems.mp3
+http://rubyrogues.com/173-rr-activerecord-crud/:
+  :title: 173 RR ActiveRecord CRUD with Eileen Uchitelle
+  :url: http://traffic.libsyn.com/rubyrogues/RR173ActiveRecord.mp3
+http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/:
+  :title: 172 RR Extreme Deployment with Badri Janakiraman and Florian Motlik
+  :url: http://traffic.libsyn.com/rubyrogues/RR172ExtremeDeployment.mp3
+http://rubyrogues.com/171-rr-evaluating-yourself/:
+  :title: 171 RR Evaluating Yourself
+  :url: http://traffic.libsyn.com/rubyrogues/RR171EvaluatingYourself.mp3
+http://rubyrogues.com/170-rr-padrino-with-dario-cravero-nathan-esquenazi-arthur-chiu/:
+  :title: 170 RR Padrino with Dario Cravero, Nathan Esquenazi, & Arthur Chiu
+  :url: http://traffic.libsyn.com/rubyrogues/RR170Padrino.mp3
+http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/:
+  :title: 169 RR Version Managers with Michal Papis, Mislav Maronić and Postmodern
+    Mod III
+  :url: http://traffic.libsyn.com/rubyrogues/RR169VersionManagers.mp3
+http://rubyrogues.com/168-rr-xiki-with-craig-muth/:
+  :title: 168 RR Xiki with Craig Muth
+  :url: http://traffic.libsyn.com/rubyrogues/RR168Xiki.mp3
+http://rubyrogues.com/167-rr-speaking-at-conferences/:
+  :title: 167 RR Speaking at Conferences
+  :url: http://traffic.libsyn.com/rubyrogues/RR167SpeakingConferences.mp3
+http://rubyrogues.com/166-rr-polyglot-programming/:
+  :title: 166 RR Polyglot Programming
+  :url: http://traffic.libsyn.com/rubyrogues/RR166PolyglotProgramming.mp3
+http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/:
+  :title: 165 RR Systems Programming Tricks with Julia Evans
+  :url: http://traffic.libsyn.com/rubyrogues/RR165SystemsProgramming.mp3
+http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/:
+  :title: 164 RR Staying Sharp with Dave Thomas
+  :url: http://traffic.libsyn.com/rubyrogues/164StayingSharp.mp3
+http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/:
+  :title: 163 RR Education with Coraline Ada Ehmke and Katrina Owen
+  :url: http://traffic.libsyn.com/rubyrogues/RR163Education.mp3
+http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/:
+  :title: 162 RR Scaling Rails with Steve Corona
+  :url: http://traffic.libsyn.com/rubyrogues/RR162ScalingRails.mp3
+http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/:
+  :title: 161 RR Docker Deploys with Sam Saffron
+  :url: http://traffic.libsyn.com/rubyrogues/RR161DockerDeploys.mp3
+http://rubyrogues.com/160-rr-conceptualizing-code-with-sam-livingston-gray-and-glenn-vanderburg/:
+  :title: 160 RR Conceptualizing Code with Sam Livingston-Gray and Glenn Vanderburg
+  :url: http://traffic.libsyn.com/rubyrogues/RR160Cognitive.mp3
+http://rubyrogues.com/159-rr-hacking-education-with-saron-yitbarek/:
+  :title: 159 RR Hacking Education with Saron Yitbarek
+  :url: http://traffic.libsyn.com/rubyrogues/RR159HackingEducation.mp3
+http://rubyrogues.com/158-rr-confessions/:
+  :title: 158 RR Confessions
+  :url: http://traffic.libsyn.com/rubyrogues/RR158Confessions.mp3
+http://rubyrogues.com/157-rr-book-club-object-design-book-club-with-rebecca-wirfs-brock/:
+  :title: 157 RR Book Club – Object Design Book Club with Rebecca Wirfs-Brock
+  :url: http://traffic.libsyn.com/rubyrogues/RR157ObjectDesign.mp3
+http://rubyrogues.com/156-rr-hardware-hacking-with-julia-grace/:
+  :title: 156 RR Hardware Hacking with Julia Grace
+  :url: http://traffic.libsyn.com/rubyrogues/RR156HardwareHacking.mp3
+http://rubyrogues.com/155-rr-why-ruby-sucks/:
+  :title: 155 RR Why Ruby Sucks
+  :url: http://traffic.libsyn.com/rubyrogues/RR155RubySucks.mp3
+http://rubyrogues.com/154-rr-indie-game-development-with-megan-fox/:
+  :title: 154 RR Indie Game Development with Megan Fox
+  :url: http://traffic.libsyn.com/rubyrogues/RR154GameDev.mp3
+http://rubyrogues.com/153-rr-from-the-forum/:
+  :title: 153 RR From the Forum
+  :url: http://traffic.libsyn.com/rubyrogues/RR153ParleyTopics.mp3
+http://rubyrogues.com/152-rr-the-new-york-times-and-ruby-with-jacqui-maher/:
+  :title: 152 RR The New York Times and Ruby with Jacqui Maher
+  :url: http://traffic.libsyn.com/rubyrogues/RR152NYT.mp3
+http://rubyrogues.com/151-rr-the-jim-weirich-tribute-episode/:
+  :title: 151 RR The Jim Weirich Tribute Episode
+  :url: http://traffic.libsyn.com/rubyrogues/RR151JimWeirich.mp3
+http://rubyrogues.com/150-rr-the-debugging-mindset-with-danielle-sucher/:
+  :title: 150 RR The Debugging Mindset with Danielle Sucher
+  :url: http://traffic.libsyn.com/rubyrogues/RR150DebuggingMindset.mp3
+http://rubyrogues.com/149-rr-ruby-in-government-with-sarah-allen/:
+  :title: 149 RR Ruby in Government with Sarah Allen
+  :url: http://traffic.libsyn.com/rubyrogues/RR149RubyInGovernment.mp3
+http://rubyrogues.com/148-rr-cloud-confusions-with-amy-palamountain/:
+  :title: 148 RR Cloud Confusions with Amy Palamountain
+  :url: http://traffic.libsyn.com/rubyrogues/RR148CloudConfusion.mp3
+http://rubyrogues.com/147-rr-apis-that-dont-suck-with-michele-titolo/:
+  :title: 147 RR APIs That Don’t Suck with Michele Titolo
+  :url: http://traffic.libsyn.com/rubyrogues/RR147APIs.mp3
+http://rubyrogues.com/146-rr-book-club-ruby-under-a-microscope-with-pat-shaughnessy/:
+  :title: 146 RR Book Club – Ruby Under a Microscope with Pat Shaughnessy
+  :url: http://traffic.libsyn.com/rubyrogues/RR146RUM.mp3
+http://rubyrogues.com/145-rr-data-analytics-with-heather-rivers/:
+  :title: 145 RR Data Analytics with Heather Rivers
+  :url: http://traffic.libsyn.com/rubyrogues/RR145DataAnalytics.mp3
+http://rubyrogues.com/144-rr-passion/:
+  :title: 144 RR Passion
+  :url: http://traffic.libsyn.com/rubyrogues/RR144Passion.mp3
+http://rubyrogues.com/143-rr-passenger-enterprise-with-tinco-andringa-and-hongli-lai/:
+  :title: 143 RR Passenger Enterprise with Tinco Andringa and Hongli Lai
+  :url: http://traffic.libsyn.com/rubyrogues/RR143Passenger.mp3
+http://rubyrogues.com/142-rr-depression-and-mental-illness-with-greg-baugues/:
+  :title: 142 RR Depression and Mental Illness with Greg Baugues
+  :url: http://traffic.libsyn.com/rubyrogues/RR142DepressionMentalIllness.mp3
+http://rubyrogues.com/141-rr-teaching-kids-with-ron-evans/:
+  :title: 141 RR Teaching Kids with Ron Evans
+  :url: http://traffic.libsyn.com/rubyrogues/RR141TeachingKids.mp3
+http://rubyrogues.com/140-rr-heroku-with-richard-schneeman/:
+  :title: 140 RR Heroku with Richard Schneeman
+  :url: http://traffic.libsyn.com/rubyrogues/RR140Heroku.mp3
+http://rubyrogues.com/139-rr-riak-with-sean-cribbs-and-bryce-kerley/:
+  :title: 139 RR Riak with Sean Cribbs and Bryce Kerley
+  :url: http://traffic.libsyn.com/rubyrogues/RR139Riak.mp3
+http://rubyrogues.com/138-rr-the-rubyrep-holiday-takeover/:
+  :title: 138 RR The RubyRep Holiday Takeover
+  :url: http://traffic.libsyn.com/rubyrogues/RR138RubyRepTakeover.mp3
+http://rubyrogues.com/137-rr-book-club-functional-programming-for-the-object-oriented-programmer-with-brian-marick/:
+  :title: 137 RR Book Club – Functional Programming for the Object-Oriented Programmer
+    with Brian Marick
+  :url: http://traffic.libsyn.com/rubyrogues/RR137FPOOP.mp3
+http://rubyrogues.com/136-rr-consulting-vs-product-work-part-2-with-steven-proctor/:
+  :title: 136 RR Consulting vs Product Work Part 2 with Steven Proctor
+  :url: http://traffic.libsyn.com/rubyrogues/RR136ConsultingProductWork.mp3
+http://rubyrogues.com/135-rr-http-2-0-with-ilya-grigorik/:
+  :title: 135 RR HTTP 2.0 with Ilya Grigorik
+  :url: http://traffic.libsyn.com/rubyrogues/RR135HTTP20.mp3
+http://rubyrogues.com/134-rr-sharktime-with-lucas-dohmen/:
+  :title: 134 RR Sharktime with Lucas Dohmen
+  :url: http://traffic.libsyn.com/rubyrogues/RR134Sharktime.mp3
+http://rubyrogues.com/133-rr-threading-with-emily-stolfo/:
+  :title: 133 RR Threading with Emily Stolfo
+  :url: http://traffic.libsyn.com/rubyrogues/RR133Threads.mp3
+http://rubyrogues.com/132-rr-nothing-to-hide-with-steve-klabnik/:
+  :title: 132 RR Nothing to Hide with Steve Klabnik
+  :url: http://traffic.libsyn.com/rubyrogues/RR132Secrets.mp3
+http://rubyrogues.com/131-rr-how-to-learn/:
+  :title: 131 RR How to Learn
+  :url: http://traffic.libsyn.com/rubyrogues/131_Episode_131_How_to_Learn.mp3
+http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/:
+  :title: 130 RR Data Visualization with Aja Hammerly
+  :url: http://traffic.libsyn.com/rubyrogues/RR130DataViz.mp3
+http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/:
+  :title: 129 RR Sharpening Tools with Ben Orenstein
+  :url: http://traffic.libsyn.com/rubyrogues/RR129SharpeningTools.mp3
+http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/:
+  :title: '128 RR Book Club: Confident Ruby with Avdi Grimm'
+  :url: http://traffic.libsyn.com/rubyrogues/RR128ConfidentRuby.mp3
+http://rubyrogues.com/127-rr-erik-michaels-ober/:
+  :title: 127 RR Erik Michaels-Ober
+  :url: http://traffic.libsyn.com/rubyrogues/RR127ErikMichaelsOber.mp3
+http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/:
+  :title: 126 RR Remote Pair Programming with Sam Livingston-Gray
+  :url: http://traffic.libsyn.com/rubyrogues/RR126RemotePairing.mp3
+http://rubyrogues.com/125-rr-loyalty-and-layoffs/:
+  :title: 125 RR Loyalty and Layoffs
+  :url: http://traffic.libsyn.com/rubyrogues/RR125LoyaltyAndLayoffs.mp3
+http://rubyrogues.com/124-rr-jruby-with-charlie-nutter/:
+  :title: 124 RR JRuby with Charlie Nutter
+  :url: http://traffic.libsyn.com/rubyrogues/RR124JRuby.mp3
+http://rubyrogues.com/123-rr-rom-with-piotr-solnica/:
+  :title: 123 RR ROM with Piotr Solnica
+  :url: http://traffic.libsyn.com/rubyrogues/RR123ROM.mp3
+http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/:
+  :title: 122 RR Daemons with Kenneth Kalmer
+  :url: http://traffic.libsyn.com/rubyrogues/RR122Daemons.mp3
+http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/:
+  :title: 121 RR Consulting vs Product Work with Adam Keys
+  :url: http://traffic.libsyn.com/rubyrogues/RR121ProductVsConsulting.mp3
+http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/:
+  :title: '120 RR Book Club: Understanding Computation with Tom Stuart'
+  :url: http://traffic.libsyn.com/rubyrogues/RR120UnderstandingComputation.mp3
+http://rubyrogues.com/119-rr-accessibility-with-brian-hogan/:
+  :title: 119 RR Accessibility with Brian Hogan
+  :url: http://traffic.libsyn.com/rubyrogues/RR119Accessibility.mp3
+http://rubyrogues.com/118-rr-live-recording-at-lonestar-ruby-conference-2013/:
+  :title: 118 RR Live Recording at LoneStar Ruby Conference 2013
+  :url: http://traffic.libsyn.com/rubyrogues/RR118LSRC.mp3
+http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/:
+  :title: 117 RR Discourse Part 2 with Sam Saffron and Robin Ward
+  :url: http://traffic.libsyn.com/rubyrogues/RR117Discourse2.mp3
+http://rubyrogues.com/116-rr-non-rails-projects/:
+  :title: 116 RR Non-Rails Projects
+  :url: http://traffic.libsyn.com/rubyrogues/RR116NonRailsProjects.mp3
+http://rubyrogues.com/115-rr-functional-and-object-oriented-programming-with-jessica-kerr/:
+  :title: 115 RR  Functional and Object Oriented Programming with Jessica Kerr
+  :url: http://traffic.libsyn.com/rubyrogues/RR115FunctionalandOOProgramming.mp3
+http://rubyrogues.com/114-rr-elixir-with-jose-valim/:
+  :title: 114 RR Elixir with José Valim
+  :url: http://traffic.libsyn.com/rubyrogues/RR114Elixir.mp3
+http://rubyrogues.com/113-rr-devops-with-nathen-harvey/:
+  :title: 113 RR DevOps with Nathen Harvey
+  :url: http://traffic.libsyn.com/rubyrogues/RR113Devops.mp3
+http://rubyrogues.com/112-rr-community-hacks/:
+  :title: 112 RR Community Hacks
+  :url: http://traffic.libsyn.com/rubyrogues/RR112CommunityHacks.mp3
+http://rubyrogues.com/111-rr-book-club-explore-it-with-elisabeth-hendrickson/:
+  :title: '111 RR Book Club: Explore It! with Elisabeth Hendrickson'
+  :url: http://traffic.libsyn.com/rubyrogues/RR111ExploreIt.mp3
+http://rubyrogues.com/110rr-activerecord-with-ernie-miller/:
+  :title: 110 RR ActiveRecord with Ernie Miller
+  :url: http://traffic.libsyn.com/rubyrogues/RR110ActiveRecord.mp3
+http://rubyrogues.com/109-rr-extreme-programming-with-will-read/:
+  :title: 109 RR Extreme Programming with Will Read
+  :url: http://traffic.libsyn.com/rubyrogues/RR109ExtremeProgramming.mp3
+http://rubyrogues.com/108-rr-ruby-trends/:
+  :title: 108 RR Ruby Trends
+  :url: http://traffic.libsyn.com/rubyrogues/RR108CommunityTrends.mp3
+http://rubyrogues.com/107-rr-impostor-syndrome-with-tim-chevalier/:
+  :title: 107 RR Impostor Syndrome with Tim Chevalier
+  :url: http://traffic.libsyn.com/rubyrogues/RR107ImpostorSyndrome.mp3
+http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/:
+  :title: 106 RR Discourse with Jeff Atwood
+  :url: http://traffic.libsyn.com/rubyrogues/RR106Discourse.mp3
+http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/:
+  :title: 105 RR Regular Expressions with Nell Shamrell
+  :url: http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3
+http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/:
+  :title: '104 RR Book Club: The Rails View with John Athayde and Bruce Williams'
+  :url: http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3
+http://rubyrogues.com/103-rr-ruby-gems/:
+  :title: 103 RR Ruby Gems
+  :url: http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3
+http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/:
+  :title: 102 RR Rhetoric with Joseph Wilk
+  :url: http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3
+http://rubyrogues.com/101-rr-diversity-with-ashe-dryden/:
+  :title: 101 RR Diversity with Ashe Dryden
+  :url: http://traffic.libsyn.com/rubyrogues/RR101Diversity.mp3
+http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/:
+  :title: 100 RR 100th Episode! Behind the Scenes with The Ruby Rogues
+  :url: http://traffic.libsyn.com/rubyrogues/RR100.mp3
+http://rubyrogues.com/099-rr-ruby-2/:
+  :title: 099 RR Ruby 2
+  :url: http://traffic.libsyn.com/rubyrogues/RR099Ruby2.mp3
+http://rubyrogues.com/098-rr-drb-with-davy-stevenson/:
+  :title: 098 RR DRb with Davy Stevenson
+  :url: http://traffic.libsyn.com/rubyrogues/RR098DRb.mp3
+http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/:
+  :title: '097 RR Book Club: Patterns of Enterprise Architecture with Martin Fowler'
+  :url: http://traffic.libsyn.com/rubyrogues/RR097POEAA.mp3
+http://rubyrogues.com/096-rr-topaz-with-alex-gaynor/:
+  :title: 096 RR Topaz with Alex Gaynor
+  :url: http://traffic.libsyn.com/rubyrogues/RR096Topaz.mp3
+http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/:
+  :title: 095 RR People and Team Dynamics with Joe O’Brien
+  :url: http://traffic.libsyn.com/rubyrogues/RR095PeopleTeamDynamics.mp3
+http://rubyrogues.com/094-rr-robust-ruby-with-ara-t-howard/:
+  :title: 094 RR Robust Ruby with Ara T. Howard
+  :url: http://traffic.libsyn.com/rubyrogues/RR094AraTHoward.mp3
+http://rubyrogues.com/093-rr-security-exploits-with-patrick-mckenzie/:
+  :title: 093 RR Security Exploits with Patrick McKenzie
+  :url: http://traffic.libsyn.com/rubyrogues/RR093SecurityExploits.mp3
+http://rubyrogues.com/092-rr-picksposion/:
+  :title: 092 RR Picksplosion!
+  :url: http://traffic.libsyn.com/rubyrogues/RR092Picksplosion.mp3
+http://rubyrogues.com/091-rr-the-ruby-design-process-with-brian-shirai/:
+  :title: 091 RR The Ruby Design Process with Brian Shirai
+  :url: http://traffic.libsyn.com/rubyrogues/RR091RubyDesignProcess.mp3
+http://rubyrogues.com/090-rr-ruby-nuby-episode/:
+  :title: 090 RR Ruby Nuby Episode
+  :url: http://traffic.libsyn.com/rubyrogues/RR090RubyNubyEpisode.mp3
+http://rubyrogues.com/089-rr-rescue-projects/:
+  :title: 089 RR Rescue Projects
+  :url: http://traffic.libsyn.com/rubyrogues/RR089RescueProjects.mp3
+http://rubyrogues.com/088-rr-concurrency-and-celluloid-with-tony-arcieri/:
+  :title: 088 RR Concurrency and Celluloid with Tony Arcieri
+  :url: http://traffic.libsyn.com/rubyrogues/RR088ConcurrencyCelluloid.mp3
+http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/:
+  :title: '087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz'
+  :url: http://traffic.libsyn.com/rubyrogues/RR087PracticalObjectOrientedDesignInRuby.mp3
+http://rubyrogues.com/086-rr-learning-from-the-past-with-arlen-walker/:
+  :title: 086 RR Learning From The Past with Arlen Walker
+  :url: http://traffic.libsyn.com/rubyrogues/RR086LearningFromThePast.mp3
+http://rubyrogues.com/085-rr-cloud-computing-with-wesley-beary/:
+  :title: 085 RR Cloud Computing with Wesley Beary
+  :url: http://traffic.libsyn.com/rubyrogues/RR085CloudComputing.mp3
+http://rubyrogues.com/084-rr-github-with-zach-holman/:
+  :title: 084 RR Github with Zach Holman
+  :url: http://traffic.libsyn.com/rubyrogues/RR084Github.mp3
+http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/:
+  :title: 083 RR Decomposing Fat Models with Bryan Helmkamp
+  :url: http://traffic.libsyn.com/rubyrogues/RR083DecomposingFatModels.mp3
+http://rubyrogues.com/082-rr-vagrant-with-michael-ries/:
+  :title: 082 RR Vagrant with Michael Ries
+  :url: http://traffic.libsyn.com/rubyrogues/RR082Vagrant.mp3
+http://rubyrogues.com/081-rr-rails-4-with-aaron-patterson/:
+  :title: 081 RR Rails 4 with Aaron Patterson
+  :url: http://traffic.libsyn.com/rubyrogues/RR081Rails4.mp3
+http://rubyrogues.com/080-rr-practical-metaprogramming-with-steven-harms/:
+  :title: 080 RR Practical Metaprogramming with Steven Harms
+  :url: http://traffic.libsyn.com/rubyrogues/RR080PracticalMetaProgramming.mp3
+http://rubyrogues.com/079-rr-documenting-code/:
+  :title: 079 RR Documenting Code
+  :url: http://traffic.libsyn.com/rubyrogues/RR079DocumentingCode.mp3
+http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/:
+  :title: 078 RR Hexagonal Rails with Matt Wynne and Kevin Rutherford
+  :url: http://traffic.libsyn.com/rubyrogues/RR078HexagonalRails.mp3
+http://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/:
+  :title: 077 RR Complexity with Glenn Vanderburg
+  :url: http://traffic.libsyn.com/rubyrogues/RR077Complexity.mp3
+http://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/:
+  :title: 076 RR Service-Oriented Design with Paul Dix
+  :url: http://traffic.libsyn.com/rubyrogues/RR076ServiceOrientedDesign.mp3
+http://rubyrogues.com/075-rr-open-source-licenses/:
+  :title: 075 RR Open Source Licenses
+  :url: http://traffic.libsyn.com/rubyrogues/RR075OpenSourceLicenses.mp3
+http://rubyrogues.com/0074-rr-developer-environments/:
+  :title: 074 RR Developer Environments
+  :url: http://traffic.libsyn.com/rubyrogues/RR074DeveloperEnvironments.mp3
+http://rubyrogues.com/073-rr-apis/:
+  :title: 073 RR APIs
+  :url: http://traffic.libsyn.com/rubyrogues/RR073APIs.mp3
+http://rubyrogues.com/072-rr-entrepreneurship-with-amy-hoy/:
+  :title: 072 RR Entrepreneurship with Amy Hoy
+  :url: http://traffic.libsyn.com/rubyrogues/RR072Entrepreneurship4.mp3
+http://rubyrogues.com/071-rr-zero-downtime-deploys/:
+  :title: 071 RR Zero Downtime Deploys
+  :url: http://traffic.libsyn.com/rubyrogues/RR071ZeroDowntimeDeploys.mp3
+http://rubyrogues.com/070-rr-what-is-a-good-starter-project/:
+  :title: 070 RR What is a Good Starter Project?
+  :url: http://traffic.libsyn.com/rubyrogues/RR070WhatsAGoodStarterProject.mp3
+http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/:
+  :title: 069 RR Therapeutic Refactoring with Katrina Owen
+  :url: http://traffic.libsyn.com/rubyrogues/RR069.mp3
+http://rubyrogues.com/068-rr-book-club-growing-object-oriented-software-guided-by-tests/:
+  :title: '068 RR Book Club: Growing Object Oriented Software Guided by Tests'
+  :url: http://traffic.libsyn.com/rubyrogues/RR068_GOOS.mp3
+http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/:
+  :title: 067 RR Gary Bernhardt’s Testing Style
+  :url: http://traffic.libsyn.com/rubyrogues/RR067GaryBernhardt.mp3
+http://rubyrogues.com/066-rr-rails-bridge-with-sarah-mei/:
+  :title: 066 RR Rails Bridge with Sarah Mei
+  :url: http://traffic.libsyn.com/rubyrogues/RR066RailsBridge.mp3
+http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/:
+  :title: 065 RR Functional vs Object Oriented Programming with Michael Feathers
+  :url: http://traffic.libsyn.com/rubyrogues/RR065_FPvsOO_Michael_Feathers.mp3
+http://rubyrogues.com/064-rr-presenting-at-conferences/:
+  :title: 064 RR Presenting at Conferences
+  :url: http://traffic.libsyn.com/rubyrogues/RR064_PresentingAtConferences.mp3
+http://rubyrogues.com/063-rr-hiring-programmers/:
+  :title: 063 RR Hiring Programmers
+  :url: http://traffic.libsyn.com/rubyrogues/RR063_HiringProgrammers.mp3
+http://rubyrogues.com/062-rr-monitoring-with-joseph-ruscio/:
+  :title: 062 RR Monitoring with Joseph Ruscio
+  :url: http://traffic.libsyn.com/rubyrogues/RR062Monitoring.mp3
+http://rubyrogues.com/rr-061-domain-driven-design-ddd-with-david-laribee/:
+  :title: 061 RR Domain Driven Design (DDD) with David Laribee
+  :url: http://traffic.libsyn.com/rubyrogues/RR061DDD.mp3
+http://rubyrogues.com/rr-60-solid-with-jim-weirich/:
+  :title: 060 RR SOLID with Jim Weirich
+  :url: http://traffic.libsyn.com/rubyrogues/RR060Solid.mp3
+http://rubyrogues.com/059-rr-security-with-rein-henrichs/:
+  :title: 059 RR  Security with Rein Henrichs
+  :url: http://traffic.libsyn.com/rubyrogues/RR059Security.mp3
+http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/:
+  :title: '058 RR Book Club: Working with Unix Processes with Jesse Storimer'
+  :url: http://traffic.libsyn.com/rubyrogues/RR058WorkingWithUnixProcesses.mp3
+http://rubyrogues.com/057-rr-rubycentral/:
+  :title: 057 RR  Ruby Central
+  :url: http://traffic.libsyn.com/rubyrogues/RR057RubyCentral.mp3
+http://rubyrogues.com/056-rr-david-heinemeier-hansson/:
+  :title: 056 RR David Heinemeier Hansson
+  :url: http://traffic.libsyn.com/rubyrogues/RR056DHH.mp3
+http://rubyrogues.com/055-rr-rubymotion-with-laurent-sansonetti/:
+  :title: 055 RR RubyMotion with Laurent Sansonetti
+  :url: http://traffic.libsyn.com/rubyrogues/RR055RubyMotion.mp3
+http://rubyrogues.com/054-rr-coding-exercises-quizzes-and-katas/:
+  :title: 054 RR Coding Exercises, Quizzes, and Katas
+  :url: http://traffic.libsyn.com/rubyrogues/RR054CodeExercisesKatasQuizzes.mp3
+http://rubyrogues.com/053-rr-square-with-jack-danger-canty-and-zach-brock/:
+  :title: 053 RR Square with Jack Danger Canty and Zach Brock
+  :url: http://traffic.libsyn.com/rubyrogues/RR05320-20Square.mp3
+http://rubyrogues.com/052-live-from-railsconf-2012/:
+  :title: 052 – Live from RailsConf 2012
+  :url: http://traffic.libsyn.com/rubyrogues/RR052LiveFromRailsConf2012.mp3
+http://rubyrogues.com/051-rr-getting-started-with-open-source/:
+  :title: 051 RR Getting Started with Open Source
+  :url: http://traffic.libsyn.com/rubyrogues/RR051GettingStartedWithOpenSource.mp3
+http://rubyrogues.com/050-rr-hungry-academy-with-jeff-casimir/:
+  :title: 050 RR Hungry Academy with Jeff Casimir
+  :url: http://traffic.libsyn.com/rubyrogues/RR50HungryAcademy.mp3
+http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/:
+  :title: 049 RR Agile Communication with Angela Harms
+  :url: http://traffic.libsyn.com/rubyrogues/RR049-Agile_Communication.mp3
+http://rubyrogues.com/048-rr-crafting-rails-applications-with-jose-valim/:
+  :title: 048 RR Crafting Rails Applications with José Valim
+  :url: http://traffic.libsyn.com/rubyrogues/RR048-CraftingRailsApplications.mp3
+http://rubyrogues.com/047-rr-coding-disciplines/:
+  :title: 047 RR Coding Disciplines with Dan Kubb
+  :url: http://traffic.libsyn.com/rubyrogues/RR047CodingDiscipline160.mp3
+http://rubyrogues.com/046-rr-objects-in-rails-part-2/:
+  :title: 046 RR Objects in Rails Part 2
+  :url: http://traffic.libsyn.com/rubyrogues/RR046ObjectsInRuby2.mp3
+http://rubyrogues.com/045-rr-bundler-with-andre-arko/:
+  :title: 045 RR Bundler with Andre Arko
+  :url: http://traffic.libsyn.com/rubyrogues/RR045Bundler.mp3
+http://rubyrogues.com/044-rr-choosing-the-right-career-path-with-marty-haught/:
+  :title: 044 RR Choosing the Right Career Path with Marty Haught
+  :url: http://traffic.libsyn.com/rubyrogues/044RRCareer_Choices.mp3
+http://rubyrogues.com/043-rr-book-club-land-of-list-with-conrad-barski/:
+  :title: '043 RR Book Club: Land of Lisp with Conrad Barski'
+  :url: http://traffic.libsyn.com/rubyrogues/RR043LandOfLisp.mp3
+http://rubyrogues.com/042-rr-producing-content-with-peter-cooper/:
+  :title: 042 RR Producing Content with Peter Cooper
+  :url: http://traffic.libsyn.com/rubyrogues/042RRPeterCooper.mp3
+http://rubyrogues.com/041-rr-code-metrics/:
+  :title: 041 RR Code Metrics with Bryan Helmkamp
+  :url: http://traffic.libsyn.com/rubyrogues/041_RR_Code_Metrics.mp3
+http://rubyrogues.com/040-rr-text-editors-and-ides/:
+  :title: 040 RR Text Editors and IDE’s
+  :url: http://traffic.libsyn.com/rubyrogues/RR_40_Editor_War.mp3
+http://rubyrogues.com/039-rr-programming-language-fundamentals/:
+  :title: 039 RR Programming Language Fundamentals
+  :url: http://traffic.libsyn.com/rubyrogues/Programming_Language_Fundamentals.mp3
+http://rubyrogues.com/038-rr-web-programming-and-updating-frameworks-with-yehuda-katz/:
+  :title: 038 RR Web Programming and Updating Frameworks with Yehuda Katz
+  :url: http://traffic.libsyn.com/rubyrogues/web_programming_and_updating_frameworks.mp3
+http://rubyrogues.com/037-rr-versioning-and-releases/:
+  :title: 037 RR Versioning and Releases
+  :url: http://traffic.libsyn.com/rubyrogues/versioning_and_releases.mp3
+http://rubyrogues.com/036-rr-rubygems/:
+  :title: 036 RR RubyGems
+  :url: http://traffic.libsyn.com/rubyrogues/rubygems_org.mp3
+http://rubyrogues.com/035-rr-estimation/:
+  :title: 035 RR Estimation
+  :url: http://traffic.libsyn.com/rubyrogues/RR35Estimation.mp3
+http://rubyrogues.com/034-rr-benchmarking-and-profiling/:
+  :title: 034 RR Benchmarking and Profiling
+  :url: http://traffic.libsyn.com/rubyrogues/033_RR_Benchmarking_and_Profiling.mp3
+http://rubyrogues.com/033-rr-book-club-eloquent-ruby/:
+  :title: 033 RR Book Club – Eloquent Ruby
+  :url: http://traffic.libsyn.com/rubyrogues/eloquent_ruby.mp3
+http://rubyrogues.com/032-rr-ruby-antipatterns/:
+  :title: 032 RR Ruby Antipatterns
+  :url: http://traffic.libsyn.com/rubyrogues/ruby_antipatterns.mp3
+http://rubyrogues.com/031-rr-code-reading/:
+  :title: 031 RR Code Reading
+  :url: http://traffic.libsyn.com/rubyrogues/code_reading.mp3
+http://rubyrogues.com/030-rr-software-craftsmanship/:
+  :title: 030 RR Software Craftsmanship with Noel Rappin
+  :url: http://traffic.libsyn.com/rubyrogues/software_craftsmanship.mp3
+http://rubyrogues.com/029-rr-keeping-up-with-gowalla/:
+  :title: 029 RR Keeping Up with Gowalla
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20111117.mp3
+http://rubyrogues.com/028-beyond-the-web/:
+  :title: 028 RR Beyond the Web
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20111116.mp3
+http://rubyrogues.com/027-rr-teaching-ruby/:
+  :title: 027 RR Teaching Ruby
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20111101.mp3
+http://rubyrogues.com/026-rr-pair-programming/:
+  :title: 026 RR Pair Programming
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20111025.mp3
+http://rubyrogues.com/025-rr-logging-i-do-not-think-it-means-what-you-think-it-means/:
+  :title: 025 RR Logging – I Do Not Think It Means What You Think It Means
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20111018.mp3
+http://rubyrogues.com/024-rr-best-practice-patterns-follow-up/:
+  :title: 024 RR Best Practice Patterns Follow Up
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20111011.mp3
+http://rubyrogues.com/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck/:
+  :title: '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
+  :url: http://traffic.libsyn.com/rubyrogues/smalltalk_best_practice_patterns.mp3
+http://rubyrogues.com/022-rr-when-to-use-modules/:
+  :title: 022 RR When to Use Modules
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110927.mp3
+http://rubyrogues.com/rest-done-right-with-steve-klabnik/:
+  :title: 021 RR REST Done Right with Steve Klabnik
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110920.mp3
+http://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/:
+  :title: 020 RR Object Oriented Programming in Rails with Jim Weirich
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110914.mp3
+http://rubyrogues.com/book-club-exceptional-ruby/:
+  :title: '019 RR Book Club: Exceptional Ruby'
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110907.mp3
+http://rubyrogues.com/what-not-to-test/:
+  :title: 018 RR What Not to Test
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110825_01.mp3
+http://rubyrogues.com/what%e2%80%99s-wrong-with-ruby/:
+  :title: 017 RR What’s Wrong with Ruby?
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110901_01.mp3
+http://rubyrogues.com/becoming-a-better-developer/:
+  :title: 016 RR Becoming a Better Developer
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110818_01.mp3
+http://rubyrogues.com/live-from-the-lone-star-ruby-conference/:
+  :title: 015 RR Science and Engineering of Computer Programming
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110811_01.mp3
+http://rubyrogues.com/queues-and-background-processing/:
+  :title: 014 RR Queues and Background Processing
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110804_01.mp3
+http://rubyrogues.com/technical-debt/:
+  :title: 013 RR Technical Debt
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110728_01.mp3
+http://rubyrogues.com/metaprogramming-in-ruby/:
+  :title: 012 RR Metaprogramming in Ruby
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110721_01.mp3
+http://rubyrogues.com/corporate-sponsors-of-open-source-software/:
+  :title: 011 RR Corporate Sponsors of Open Source Software
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110714_01.mp3
+http://rubyrogues.com/personal-design-rules/:
+  :title: 010 RR Personal Design Rules
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110707_01.mp3
+http://rubyrogues.com/what-makes-beautiful-code/:
+  :title: 009 RR What Makes Beautiful Code
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110630_01.mp3
+http://rubyrogues.com/where-is-rails-headed/:
+  :title: 008 RR Where is Rails Headed?
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110623.mp3
+http://rubyrogues.com/debugging-in-ruby/:
+  :title: 007 RR Debugging in Ruby
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110616.mp3
+http://rubyrogues.com/conferences-and-user-groups/:
+  :title: 006 RR Conferences and User Groups
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110609.mp3
+http://rubyrogues.com/rubygems-open-source-and-community/:
+  :title: 005 RR RubyGems, Open Source, and Community
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110602.mp3
+http://rubyrogues.com/databases-sql-nosql/:
+  :title: 004 RR Databases, SQL, & NoSQL
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110526.mp3
+http://rubyrogues.com/003-rr-templating-languages-for-html-css-and-javascript/:
+  :title: 003 RR Templating Languages for HTML, CSS, and JavaScript
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues20110519.mp3
+http://rubyrogues.com/002-rr-virtual-machines-concurrency-and-the-future-of-ruby/:
+  :title: 002 RR Virtual Machines, Concurrency, and the Future of Ruby
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues051211.mp3
+http://rubyrogues.com/001-rr-testing-practices-and-tools/:
+  :title: 001 RR Testing Practices and Tools
+  :url: http://traffic.libsyn.com/rubyrogues/RubyRogues050511.mp3
